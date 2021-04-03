@@ -1,7 +1,1 @@
-total 9
-drwxr-xr-x 1 satis 197609 0 Apr  3 19:26 ./
-drwxr-xr-x 1 satis 197609 0 Apr  3 17:46 ../
-drwxr-xr-x 1 satis 197609 0 Apr  3 17:47 .git/
--rw-r--r-- 1 satis 197609 3 Apr  3 19:25 demo.txt
--rw-r--r-- 1 satis 197609 0 Apr  3 19:26 listing.txt
--rw-r--r-- 1 satis 197609 0 Apr  3 18:16 test.txt
+
